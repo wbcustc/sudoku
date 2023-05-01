@@ -6,7 +6,7 @@ import React from 'react';
 export const Footer = () => {
   return (
     <footer className="footer">
-      <p>&#169; source code on <a href="https://github.com/wbcustc/sudoku/">Github</a></p>
+      <p>Source code on <a href="https://github.com/wbcustc/sudoku/">Github</a> Cloned from this <a href="https://github.com/raravi/sudoku">repo</a> </p>
     </footer>
   )
 }
